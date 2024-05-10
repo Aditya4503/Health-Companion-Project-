@@ -31,22 +31,39 @@ Overall, this software provides a comprehensive solution for individuals looking
 and manage their nutritional intake effectively, promoting healthier habits and overall wellbeing
 
 
+
+
 Instructions to Start ->
+
 
 1] Paste all the text files in "Text Files" Folder to the folder where the main project is saved
 
+
 2] The data entered through the user interface will be read, written in the above text files
 
+
 3] Install neccessary Python modules:
+
     import time
+    
     import customtkinter
+    
     from tkinter import *
+    
     import CTkTable
+    
     import numpy as np
+    
     import customtkinter as ctk
+    
     from customtkinter import CTk, CTkProgressBar
+    
     from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+    
     from matplotlib.figure import Figure
+    
     import matplotlib.pyplot as plt
+
+    
     
 4] To use the Telegram Bot it's file must even be pasted in the same folder
