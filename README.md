@@ -67,3 +67,5 @@ Instructions to Start ->
     
     
 4] To use the Telegram Bot it's file must even be pasted in the same folder
+
+![Alt text](image link)
